@@ -51,7 +51,7 @@ t_ij = (g_ij + 1) / (g_ij + β × u_ij + 2)
 
 ```bash
 # 克隆项目
-git clone https://github.com/你的用户名/Cot.git
+git clone https://github.com/usts-wangshuo/Cot.git
 cd Cot
 
 # 安装依赖
